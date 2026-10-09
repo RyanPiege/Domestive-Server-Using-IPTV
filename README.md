@@ -89,21 +89,6 @@ Armazenamento: touch /storage/<VOLUME>/CLOUD/RYAN/teste.txt
 - Manter Termux e OpenSSH atualizados
 - Encerrar o servidor quando não for necessário: `pkill sshd`
 
-## Roadmap
-
-- [x] Servidor SFTP funcional no Termux
-- [x] Inicialização automática
-- [ ] Escrita estável no HD externo
-- [ ] Usuários isolados (`RYAN` e `YCE`), cada um na própria pasta
-- [ ] Integração com IPTV
-
-```
-HD
-└── CLOUD
-    ├── RYAN
-    └── YCE
-```
-
 ## Licença
 
 Defina a licença do projeto (ex.: MIT).
